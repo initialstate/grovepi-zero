@@ -1,8 +1,8 @@
-#GrovePi Zero: A Simple, Compact Sensor Playground for your Pi Zero
+# GrovePi Zero: A Simple, Compact Sensor Playground for your Pi Zero
 ---
 _by Jamie Bailey, October 19, 2016_
 
-#Introduction
+# Introduction
 
 ![Grove Pi Zero Review](https://github.com/InitialState/grovepi-zero/wiki/img/grovepi-zero-initialstate.jpg)
 
